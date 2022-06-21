@@ -15,8 +15,7 @@ Here is a sample file.
 
 ABCDE     
              
-Frank                     
-ABCDE                  
+Frank                     ABCDE                  
 
 Larry
 ABCAC
