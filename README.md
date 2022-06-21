@@ -13,15 +13,20 @@ Student2 responses
 
 Here is a sample file.
 
-ABCDE                  
+ABCDE     
+             
 Frank                     
 ABCDE                  
+
 Larry
 ABCAC
+
 Moe
 BBCDE
+
 Curly
 BBAAE
+
 Michael
 BBCDE
 
