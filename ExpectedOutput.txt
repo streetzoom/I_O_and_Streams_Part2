@@ -1,0 +1,9 @@
+Student                Score 
+----------------------------
+Frank                      5
+Larry                      3
+Moe                        4
+Curly                      2
+Michael                    4
+---------------------------
+Average score            3.6
