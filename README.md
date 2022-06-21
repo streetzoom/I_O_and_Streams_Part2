@@ -5,8 +5,10 @@ Write a program that reads a file named 'responses.txt" that contains the answer
 as well as student responses for the quiz.
 
 The answer key is the first item in the file.
+
 Student1 name
 Student1 responses
+
 Student2 name
 Student2 responses
 . . .
