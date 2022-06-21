@@ -38,21 +38,5 @@ You may assume that the data in the file is properly formatted
 
 Program should output to the console the following:
 
-Student                     Score 
-
-----------------------------
-
-Frank                         5
-
-Larry                         3
-
-Moe                           4
-
-Curly                         2
-
-Michael                       4
-
----------------------------
-
-Average score            3.6
+[ExpectedOutput.txt](https://github.com/streetzoom/I_O_and_Streams_Part2/files/8952131/ExpectedOutput.txt)
 
